@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-data-provider": "^2.2.0",
+    "jscs": "^3.0.7"
+  },
+  "dependencies": {}
+}
